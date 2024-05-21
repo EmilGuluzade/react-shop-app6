@@ -1,0 +1,29 @@
+.icon_container {
+    height: 41px;
+    width: auto;
+    margin-bottom: 30px;
+}
+.icon_container img {
+    height: 100%;
+}
+.services{
+    padding:120px 0 ;
+}
+.service_item h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #1a1a1a;
+    margin-bottom: 13px;
+}
+.service_item p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a5a5a5;
+    max-width: 100%;
+    margin-bottom: 0px;
+}
+
+.service_item {
+    margin-bottom: 41px;
+}   

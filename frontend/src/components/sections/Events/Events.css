@@ -1,0 +1,54 @@
+.event_items {
+  margin-top: 68px;
+}
+.event_item {
+  margin-bottom: 56px;
+}
+.event_item:last-child {
+  margin-bottom: 0px;
+}
+.event_date {
+  width: 131px;
+  height: 131px;
+  border: solid 2px #ffb606;
+  margin-bottom: 18px;
+}
+.events{
+padding:0 0 100px 0 ;
+}
+.event_day {
+  font-size: 48px;
+  font-weight: 700;
+  color: #ffb606;
+  margin-bottom: 1px;
+  line-height: 1;
+}
+.event_month {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffb606;
+}
+.event_name a {
+  font-size: 22px;
+  font-weight: 500;
+  color: #1a1a1a;
+}
+.event_name a:hover {
+  color: #ffb606;
+}
+.event_location {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1a1a1a;
+  margin-top: 2px;
+}
+.event_content p {
+  font-weight: 500;
+  color: #a5a5a5;
+  margin-top: 21px;
+  margin-bottom: 13px;
+}
+
+.event_image img {
+  width: 100%;
+}
