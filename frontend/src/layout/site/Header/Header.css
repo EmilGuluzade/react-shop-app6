@@ -17,7 +17,7 @@ header {
   left: 50%;
   transform: translateX(-50%);
   background-color: white;
-width: 1318px;
+
   height: 104px;
   z-index: 10;
   align-items: center;
@@ -111,7 +111,7 @@ width: 1318px;
 	{
 		width: 100%;
 	}
-	.header_side
+	nav
 	{
 		display: none !important;
 	}
